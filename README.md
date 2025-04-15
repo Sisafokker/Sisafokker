@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Sisafokker (Joaquin Pagliettini)
-- 👀 I'm a Full Stack Developer (Javascript, Html, Css, SQL, React, Node.js, and some Python)
-- 👀 Particularly interested in process streamlining/automation, tool enhancement and integration, Google Apps Script, Add-ons, Google AppSheet and Google Spreadsheets. If its within the Google Workspace environment, I am most likely interested!
-- 🌱 I’m currently learning ... always learning... 
-- 💞️ I’m looking to collaborate on Google Workspace related project / Deployment / Integration / Automation / Tool enhacement / Webapps / Google Sheets / Apps Script / AppSheet
-- 📫 How to reach me : https://www.linkedin.com/in/joaquinpagliettini/ &&  www.hoakeen.com (a bit outdated and only for Spanish Speakers)
+## 👋 Hi, I'm Joaquin Pagliettini (@Sisafokker)
+
+🎯 Google Workspace Automation Expert | Full Stack Developer  
+🚀 20,000+ dev hours | 100+ companies | 14+ years experience  
+🌍 Bilingual: English | Spanish  
+🏆 Upwork Top Rated Plus
+
+### 🔧 Specialties
+- Google Apps Script (Automation, Add-ons, Webapps)
+- Google AppSheet (Mobile/Desktop no-code apps)
+- API Integrations & Workflow Automation
+- Google Workspace Optimization & Consulting
+- Full-Stack Dev: JavaScript, Node.js, React, SQL
+- Dashboards: Sheets, Looker Studio
+
+📫 [LinkedIn](https://www.linkedin.com/in/joaquinpagliettini/) | [Website](https://www.hoakeen.com)
+
+> All client work is private — message me for sample walkthroughs or demo projects.
+
 
 <!---
 Sisafokker/Sisafokker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
